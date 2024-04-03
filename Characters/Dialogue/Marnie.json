@@ -25,7 +25,7 @@
   "Saloon_Fri": "%Marnie doesn't seem to notice that you're there...",
   "Saloon_Sun": "*sigh*... I wasn't very productive today.",
   "Saloon_Sat": "I always see Clint here but he won't talk to anyone. He just glances over his shoulder now and then.$s",
-  "Tue": "$query PLAYER_NPC_RELATIONSHIP any Shane married roommate#Now that Shane's gone, I'm going to have teach Jas how to care for the chickens.|My nephew Shane has been staying at my place the last few months.#$e#He helps me out with the chickens, so I'm not complaining.",
+  "Tue": "$query PLAYER_NPC_RELATIONSHIP any Shane married roommate#Now that Shane's gone, I'm going to have to teach Jas how to care for the chickens.|My nephew Shane has been staying at my place the last few months.#$e#He helps me out with the chickens, so I'm not complaining.",
   "GreenRain": "You're not worried about this rain? That does put me at ease a little...#$e#I just hope the cows tucked themselves in...$s",
   "GreenRainFinished": "Well, looks like we all got scared for nothing... The rain was totally harmless!",
   "GreenRain_2": "The animals seems to enjoy this rain... I think it's putting extra nutrients into the grass.",

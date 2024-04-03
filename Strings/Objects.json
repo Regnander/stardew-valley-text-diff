@@ -1392,7 +1392,7 @@
   "MossySeed_Name": "Mossy Seed",
   "MossySeed_Description": "This can be planted to grow rare wild trees.",
   "GreenRainWeeds_Name": "Green Rain Weeds",
-  "GreenRainWeeds0_Description": "Might contain fibers or mixed seeds.",
+  "GreenRainWeeds_Description": "Might contain fibers or mixed seeds.",
   "SonarBobber_Name": "Sonar Bobber",
   "SonarBobber_Description": "Shows what fish is on the line before it's caught.",
   "SpecificBait_Name": "Bait",

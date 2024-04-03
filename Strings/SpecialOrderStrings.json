@@ -143,5 +143,6 @@
   "Marlon_DF_2_Text": "Collect {Treasure:Count} {Treasure:LocalizedName} from the Skull Cavern.",
   "Marlon_DF_2_Objective": "Collect {Treasure:Count} {Treasure:LocalizedName}.",
   "Marlon_DF_Item_0_LocalizedName": "Omni Geodes",
-  "Marlon_DF_Item_1_LocalizedName": "pieces of Iridium Ore"
+  "Marlon_DF_Item_1_LocalizedName": "pieces of Iridium Ore",
+  "Marlon_DF_Item_2_LocalizedName": "Prismatic Shards"
 }

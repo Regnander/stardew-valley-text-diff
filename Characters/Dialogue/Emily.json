@@ -52,7 +52,7 @@
   "Wed": "I've heard rumors of rare and powerful magic rings, forged long ago by forgotten civilizations. I'm not sure if it's true or just a fairy tale.",
   "Wed4": "You catch fish? I just hope you treat the poor things humanely.$s#$e#Every critter deserves our respect, even the slimy ones.",
   "Wed6": "Have faith... every day you're taking one more step on the path of your destiny.",
-  "Wed8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#He, @.#$e#I always knew we would become good friends. It was written in the stars!|Hi, @.$u#$e#I always knew we'd become close like this...",
+  "Wed8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#Hey, @.#$e#I always knew we would become good friends. It was written in the stars!|Hi, @.$u#$e#I always knew we'd become close like this...",
   "Thu": "I hope you're farming in a sustainable way. The valley's ecosystem is fragile!#$e#How do I know? I have a strong gut-feeling!",
   "Thu4": "Sometimes the flowers speak to me... each one has a different story to tell!",
   "Fri": "Ah, spring. The season of pastels. I actually prefer jewel tones, myself.#$b#Oh, excuse me! I was mumbling about fashion again, wasn't I?",
