@@ -73,7 +73,7 @@
   "summer_Tue4": "Sebastian hardly ever talks to me. I wonder if he even likes me at all?#$e#It's sad, I want to have a brother but he doesn't act like one.",
   "summer_Wed": "Are you enjoying the season?#$e#It's been so warm this year.$h",
   "summer_Wed4": "Penny and I have been doing a seasonal book club.#$b#It's just the two of us, but it's still fun to discuss what we're reading!",
-  "summer_Thu": "Sorry, I was just thinking about some gadgets I'm making.#$q 35/36 Thu_01_old#I've decided I'm going to build a robot someday.#$r 35 30 Thu_0#That should be very easy for you#$r 36 -50 Thu_01_01#You should be more realistic#$r 35 40 Thu_01_02#It sounds challenging",
+  "summer_Thu": "Sorry, I was just thinking about some gadgets I'm making.#$q 35/36 Thu_01_old#I've decided I'm going to build a robot someday.#$r 35 30 Thu_0#That should be very easy for you.#$r 36 -50 Thu_01_01#You should be more realistic.#$r 35 40 Thu_01_02#It sounds challenging.",
   "Thu_01_old": "See you later.",
   "Thu_0": "Really? Are you sure you're not just trying to flatter me?",
   "Thu_01_01": "You don't think I could do it?$s",

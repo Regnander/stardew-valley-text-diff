@@ -5,7 +5,7 @@
   "GreenRain": "I can't see the color green very well.#$b#I guess it's part of living underground for so long.",
   "AcceptGift_(O)StardropTea": "*sniff*... is this milk? *sip*... hmm... tastes good.",
   "Mon": "I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?",
-  "AcceptGift_milk_item": "Ah, 'milk'... *slurp*... How interesting. Remind me, again... where exactly does this juice come from?#$b#...!!! *sploosh*",
+  "AcceptGift_Neutral_milk_item": "Ah, 'milk'... *slurp*... How interesting. Remind me, again... where exactly does this juice come from?#$b#...!!! *sploosh*",
   "Tue": "Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?",
   "firstVisit_IslandNorth": "If you enter the volcano on Ginger Island, you might encounter others like me. Don't be alarmed! We're peaceful with humans.",
   "mineArea_121": "You know, you're pretty good at mining, for a human.",

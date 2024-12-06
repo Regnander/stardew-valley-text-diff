@@ -13,7 +13,7 @@
   "12": "ItemHarvest/Smelting/Now that you've built a furnace, you can smelt some metal. According to Clint's instructions, if you place 5 copper ore and 1 piece of coal in the furnace, it should produce a copper bar./Use your furnace to smelt a Copper Bar./(O)334 1/-1/0/-1/true",
   "13": "Basic/To The Beach/Someone named Willy invited you to visit the beach south of town. He says he has something to give you./Visit the beach south of town before 5:00pm./-1/-1/0/-1/true",
   "14": "Basic/Explore The Mine/There's an old mine shaft in the mountains north of town. There could be valuable minerals inside, but Marlon hinted that it might be dangerous./Reach level 5 in the mines./17/17/0/-1/false",
-  "15": "Monster/Initiation/If you can slay 10 slimes, you'll have earned your place in the Adventurer's Guild./0 of 10 slimes slain./Green_Slime 10/16/0/-1/false",
+  "15": "Monster/Initiation/If you can slay 10 slimes, you'll have earned your place in the Adventurer's Guild./0 of 10 slimes slain./Green_Slime 10 null false/16/0/-1/false",
   "16": "Location/Initiation/You successfully dispatched 10 slimes. Now you can enter the Adventurer's Guild./Enter the Adventurer's Guild./AdventureGuild/-1/0/-1/false",
   "17": "Basic/Deeper In The Mine/It seems that the mine elevator is still functional. It will allow you to quickly return to any elevator doors you've discovered. A deeper expedition might be in order./Reach level 40 in the mines./18/18/0/-1/false",
   "18": "Basic/To The Bottom?/So far, there's no sign of the bottom. How low does it go?/Reach the bottom of the mine./-1/-1/0/-1/false",

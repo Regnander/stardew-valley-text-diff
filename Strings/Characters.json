@@ -20,6 +20,7 @@
   "Relative_Grandson": "grandson",
   "Relative_Nephew": "nephew",
   "Relative_Niece": "niece",
+  "FallbackDialogueForError": "...",
   "NameYourHorse": "Name Your Horse",
   "WipedMemory": "You're the new farmer, aren't you?#$e#You seem... no. I'm sure we've never met.",
   "DefaultHorseName": "Grover",

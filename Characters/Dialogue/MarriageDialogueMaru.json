@@ -33,7 +33,7 @@
   "Good_1": "Now that we live together, it's hard to imagine being alone again.",
   "Good_2": "Taking a break? That's good!",
   "Good_3": "There's a lot of strategy to planning and running a farm. It's more intellectually stimulating than I thought!",
-  "Good_4": "For a while there I was considering building a robotic husband. But you're a lot more fun!$h^For a while there I was considering building a robotic wife. But you're a lot more fun!$h",
+  "Good_4": "For a while there I was considering building a robotic ${husband^wife}$. But you're a lot more fun!$h",
   "Good_5": "I was just admiring my wedding amulet... The shell is flawless. This is a very rare specimen!$l",
   "Good_6": "Last night, I had a dream that I was looking through a gigantic telescope. I saw something moving in the %noun nebula. Kind of spooky.",
   "Neutral_0": "I hope you'd still like me even if I gained weight.",
